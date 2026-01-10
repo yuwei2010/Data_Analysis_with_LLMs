@@ -8,3 +8,4 @@ skills/*
 my_agent/__pycache__/*
 my_agent/.env
 my_agent/.adk/session.db
+stuttgart_sport_news.md
