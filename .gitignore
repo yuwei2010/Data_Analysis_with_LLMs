@@ -4,3 +4,7 @@ A01_API.ipynb
 google.env
 copilot.env
 result.csv
+skills/*
+my_agent/__pycache__/*
+my_agent/.env
+my_agent/.adk/session.db
