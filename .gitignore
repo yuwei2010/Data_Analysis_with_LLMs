@@ -18,3 +18,11 @@ history_claude_sonnet_4_5.json
 results/gpt4o/Lesson05b_Example.ipynb
 Lesson05b_Example.ipynb
 *Example.ipynb
+.skills/*
+agent_history.json
+.gitignore
+Bosch_news.md
+agent_history.xlsx
+international_news.md
+stuttgart_finance_news.md
+stuttgart_technik_news.md
