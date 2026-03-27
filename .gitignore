@@ -39,3 +39,4 @@ test/*
 *.pptx
 Lesson11_Planning.md
 tests/test_factorial.py
+llm/*
