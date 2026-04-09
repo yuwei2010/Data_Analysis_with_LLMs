@@ -44,3 +44,7 @@ llm/*
 Lesson12_Multi-Agent.md
 AI_Report.md
 .claude/*
+Tasks/.agents/*
+Tasks/Japan_travel_plan/.agents/*
+*/.agents/*
+Tasks/*
