@@ -49,3 +49,7 @@ Tasks/Japan_travel_plan/.agents/*
 */.agents/*
 Tasks/*
 agent_memory.json
+*.wav
+*.txt
+*.py
+*.md
